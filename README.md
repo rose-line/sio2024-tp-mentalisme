@@ -1,3 +1,3 @@
-# mentalisme
+# TP Mentalisme
 
 Correction du TP Mentalisme.
