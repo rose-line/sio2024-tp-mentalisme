@@ -1,3 +1,1 @@
-# TP Mentalisme
-
-Correction du TP Mentalisme.
+# TP Mentalisme - Proposition de correction
